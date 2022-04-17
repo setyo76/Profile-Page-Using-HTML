@@ -7,5 +7,5 @@ Use HTML only to make simple profile page, with basic element  and atribut. No C
 Preview page:
 <br />
 <br />
-<img width="200" alt="SS Profile Pages Using HTML Only" src="https://user-images.githubusercontent.com/88175067/163599670-9e876d8c-4676-4e8b-aec9-ed90a6566543.png">
+<img width="250" alt="Preview Tugas HTML Profile Agustinus Setyo Nugroho" src="https://user-images.githubusercontent.com/88175067/163703808-e3eb0332-94cc-4178-91fe-8391d9ba1b07.png">
 </p>
